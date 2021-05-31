@@ -22,7 +22,7 @@ you cab download it from here:https://play.google.com/store/apps/details?id=de.k
 
 or look in the phone in google play: "Serial Bluetooth Teminal"
 
-photo
+![app](/images/app.jpeg)
 
 4) a computer with ardouino IDE to put the code on the esp32 
  you can download it from here:https://www.arduino.cc/en/software
