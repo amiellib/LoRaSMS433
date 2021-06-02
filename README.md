@@ -37,7 +37,11 @@ or look in the phone in google play: "Serial Bluetooth Teminal"
 <p align="center">
   <img width="320" height="300" src="/images/app.jpeg">
 </p>
+
 # 4 
  a computer with ardouino IDE to put the code on the esp32 
  you can download it from here:https://www.arduino.cc/en/software
+ <p align="center">
+  <img width="320" height="300" src="/images/ArduinoLogo.png">
+</p>
 
