@@ -85,7 +85,7 @@ or look in the phone in google play: "Serial Bluetooth Teminal"
 
 
 ## The .ino files in this repository
-import then to your comupter and upload them to the devices.
+Import then to your comupter and upload them to the devices.
 
 
 # Step by Step Walkthrough
@@ -215,4 +215,43 @@ Now Upload
 
 ### Pair Smartphone to esp32 via Bluetooth
 
+With Smartphone turn on Bluetooth, and search for the esp32 device to pair (in default case it is named "LoRa-01")
+
+<p align="center">
+  <img width="320" height="300" src="/images/pair.jpeg">
+</p>
+
 ### Open App and Connect to esp32
+
+Open The App and click the settings button:
+
+<p align="center">
+  <img width="320" height="300" src="/images/open.jpg">
+</p>
+
+Click Devices:
+
+<p align="center">
+  <img width="320" height="300" src="/images/devices.jpg">
+</p>
+
+Choose your device:
+
+<p align="center">
+  <img width="320" height="300" src="/images/choose_device.jpg">
+</p>
+
+make sure your you are connected:
+
+<p align="center">
+  <img width="320" height="300" src="/images/connect.jpg">
+</p>
+
+Your first input will be your nickname that will be shown ass the sender by all other devices:
+
+<p align="center">
+  <img width="320" height="300" src="/images/nickname.jpeg">
+</p>
+
+## Comments
+
