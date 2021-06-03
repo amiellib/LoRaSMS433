@@ -69,7 +69,7 @@ you can use other methed like connect to the computer or to the smartphone
 
 ## Android Terminal App 
   the app "Serial Bluetooth Teminal"
-you cab download it from here:https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
+you cab download it from here: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
 
 or look in the phone in google play: "Serial Bluetooth Teminal"
 <p align="center">
@@ -78,7 +78,7 @@ or look in the phone in google play: "Serial Bluetooth Teminal"
 
 ## Arduino IDE
  a computer with ardouino IDE to put the code on the esp32 
- you can download it from here:https://www.arduino.cc/en/software
+ you can download it from here: https://www.arduino.cc/en/software
  <p align="center">
   <img width="320" height="300" src="/images/ArduinoLogo.png">
 </p>
@@ -86,3 +86,40 @@ or look in the phone in google play: "Serial Bluetooth Teminal"
 
 ## The .ino files in this repository
 import then to your comupter and upload them to the devices.
+
+
+# Step by Step Walkthrough
+
+1) Install app on Smartphone
+2) Install Arduino IDE
+3) import Additional Boards Manager URLs
+4) Insall Board from Board Manager
+5) Include Libraries from Manage Library
+6) Import and open files from this repository
+7) Edit the file to your needs
+8) Compile and upload to esp32
+9) Pair Smartphone to esp32 via Bluetooth
+10) Open App and Connect to esp32
+
+## Install app on Smartphone
+
+Open Play Store on your Smartphone, Search for "Serial Bluetooth Terminal", and install.
+Other Apps may work, we used this one.
+
+### Install Arduino IDE
+
+Open https://www.arduino.cc/en/software , select and click on your operating system, this will lead you to the following page:
+
+
+You can donate, or click just download.
+
+### import Additional Boards Manager URLs
+
+
+### Insall Board from Board Manager
+### Include Libraries from Manage Library
+### Import and open files from this repository
+### Edit the file to your needs
+### Compile and upload to esp32
+### Pair Smartphone to esp32 via Bluetooth
+### Open App and Connect to esp32
