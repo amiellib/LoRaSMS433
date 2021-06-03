@@ -40,6 +40,24 @@ we used A70 sumsung and s20+ sumsung
 This Project will work on android Smartphones that have BlueTooth.
 
 
+## Cables
+
+we used 2 micro usb to usb to connect the esp32 to the computer and  the power supply
+
+<p align="center">
+  <img width="320" height="300" src="/images/cable.jpeg">
+</p>
+
+## Power source for esp32
+
+we used 2 power bank to give power to the esp32
+
+you can use other methed like connect to the computer or to the smartphone
+
+<p align="center">
+  <img width="320" height="300" src="/images/power_front.jpeg">
+</p>
+
 # The Software Needed: 
 
 
