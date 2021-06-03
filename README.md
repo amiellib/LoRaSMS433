@@ -104,14 +104,24 @@ import then to your comupter and upload them to the devices.
 ## Install app on Smartphone
 
 Open Play Store on your Smartphone, Search for "Serial Bluetooth Terminal", and install.
+
+<p align="center">
+  <img width="320" height="300" src="/images/install_app.jpeg">
+</p>
+
 Other Apps may work, we used this one.
 
 ### Install Arduino IDE
 
 Open https://www.arduino.cc/en/software , select and click on your operating system, this will lead you to the following page:
 
+<p align="center">
+  <img width="320" height="300" src="/images/ide_donating.PNG">
+</p>
 
 You can donate, or click just download.
+Then you can agree to all.
+If any problems occur, you can follow: https://www.circuitbasics.com/arduino-basics-installing-software/
 
 ### import Additional Boards Manager URLs
 
