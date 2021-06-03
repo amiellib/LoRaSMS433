@@ -1,21 +1,21 @@
-# Cheap LoRa Messanger
+# Cheap LoRa Messenger
 
 In this project you can assemble a cheap LoRa connection to your smartphone, and be able to transmit to all surrounding phones also using this project.
 
-we will send a massge from a phone to anthor phone using lora conncted with bluetooth to the esp32 "wifi lora 32"
+We will send a message from one phone to anathor phone using LoRa connected with bluetooth to the esp32 "wifi lora 32"
 
 # The Hardware Needed: 
 
 
-1) Antena * 2 + esp32 with built in bluetooth * 2
+1) Antenna * 2 + esp32 with built in bluetooth * 2
 2) Android Smartphones * 2
 3) Cables (OTG) * 2
 4) Power source for esp32 (Battery, Computer, Phone) * 2
 
 
-## esp32 + Antena
+## esp32 + Antenna
 
-The Devices should all be configured to communicate on the same frequancy. In our project we used frequancy 433Mhz.
+The Devices should all be configured to communicate on the same frequency. In our project we used frequency 433Mhz.
 
 <p align="center">
   <img width="320" height="300" src="/images/esp32front.jpeg">
@@ -24,9 +24,11 @@ The Devices should all be configured to communicate on the same frequancy. In ou
 esp32 can be bought here: https://heltec.org/project/wifi-lora-32/
 
 ## Smartphones
+
  2 Smartphone operating android system
 
-we used A70 sumsung and s20+ sumsung
+We used A70 samsung and s20+ samsung.
+
 <p align="center">
   <img width="320" height="300" src="/images/phones&esp32.jpeg">
 </p>
@@ -36,7 +38,7 @@ This Project will work on android Smartphones that have BlueTooth.
 
 ## Cables
 
-we used 2 micro usb to usb to connect the esp32 to the computer and  the power supply
+We used 2 micro-usb to usb to connect the esp32 to the computer and for the power supply.
 
 <p align="center">
   <img width="320" height="300" src="/images/cable.jpeg">
@@ -44,9 +46,9 @@ we used 2 micro usb to usb to connect the esp32 to the computer and  the power s
 
 ## Power source for esp32
 
-we used 2 power bank to give power to the esp32
+We used 2 power banks to suply power to the esp32.
 
-you can use other methed like connect to the computer or to the smartphone
+You can use other methods, You can also connect to the computer or the smartphone.
 
 <p align="center">
   <img width="320" height="300" src="/images/power_front.jpeg">
@@ -62,24 +64,28 @@ you can use other methed like connect to the computer or to the smartphone
 
 
 ## Android Terminal App 
-  the app "Serial Bluetooth Teminal"
+The app "Serial Bluetooth Terminal"
 you cab download it from here: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
 
-or look in the phone in google play: "Serial Bluetooth Teminal"
+Or look in the phone in google play: "Serial Bluetooth Terminal"
 <p align="center">
   <img width="320" height="300" src="/images/app.jpeg">
 </p>
 
 ## Arduino IDE
- a computer with ardouino IDE to put the code on the esp32 
- you can download it from here: https://www.arduino.cc/en/software
- <p align="center">
+
+We need the Arduino IDE in order to upload the esp32 code.
+
+You can download it from here: https://www.arduino.cc/en/software
+
+<p align="center">
   <img width="320" height="300" src="/images/ArduinoLogo.png">
 </p>
 
 
 ## The .ino files in this repository
-Import then to your comupter and upload them to the devices.
+
+Import the .ino file to your computer and upload them to the devices.
 
 
 # Step by Step Walkthrough
@@ -174,8 +180,8 @@ Click Sketch -> Include Library -> Manage Libraries
   <img width="500" height="300" src="/images/import_library.jpeg">
 </p>
 
-The following will open and search for "lora sandeep" and install
-Then search for "ssd1306" (scroll down) and install
+The following will open and search for "lora sandeep" and install.
+Then search for "ssd1306" (scroll down) and install.
 
 <p align="center">
   <img width="320" height="300" src="/images/sandeep.PNG">
@@ -217,11 +223,11 @@ Click verify to make sure the code compiles:
 
 The port may alter from computer to computer!
 
-Now Upload
+Now Upload.
 
 ### Pair Smartphone to esp32 via Bluetooth
 
-With Smartphone turn on Bluetooth, and search for the esp32 device to pair (in default case it is named "LoRa-01")
+With Smartphone, turn on Bluetooth, and search for the esp32 device to pair (in default case it is named "LoRa-01").
 
 <p align="center">
   <img width="320" height="300" src="/images/pair.jpeg">
@@ -247,7 +253,7 @@ Choose your device:
   <img width="320" height="300" src="/images/choose_device.jpg">
 </p>
 
-make sure your you are connected:
+Make sure your you are connected:
 
 <p align="center">
   <img width="320" height="300" src="/images/connect.jpg">
