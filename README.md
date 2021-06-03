@@ -2,7 +2,7 @@
 
 In this project you can assemble a cheap LoRa connection to your smartphone, and be able to transmit to all surrounding phones also using this project.
 
-We will send a message from one phone to anathor phone using LoRa connected with bluetooth to the esp32 "wifi lora 32"
+We will send a message from one phone to another phone using LoRa connected with bluetooth to the esp32 "wifi lora 32"
 
 # The Hardware Needed: 
 
@@ -46,7 +46,7 @@ We used 2 micro-usb to usb to connect the esp32 to the computer and for the powe
 
 ## Power source for esp32
 
-We used 2 power banks to suply power to the esp32.
+We used 2 power banks to supply power to the esp32.
 
 You can use other methods, You can also connect to the computer or the smartphone.
 
@@ -93,7 +93,7 @@ Import the .ino file to your computer and upload them to the devices.
 1) Install app on Smartphone
 2) Install Arduino IDE
 3) import Additional Boards Manager URLs
-4) Insall Board from Board Manager
+4) Install Board from Board Manager
 5) Import and open files from this repository
 6) Include Libraries from Manage Library
 7) Edit the file to your needs
@@ -144,7 +144,7 @@ click OK, and OK.
   <img width="320" height="300" src="/images/ok_ok.PNG">
 </p>
 
-### Insall Board from Board Manager
+### Install Board from Board Manager
 
 Now we will need to install the Board.
 Click Tools -> Boards -> Boards Manager
@@ -201,7 +201,7 @@ To change the name of the device you will need to change it at the following lin
   <img width="320" height="300" src="/images/bluetooth_name.PNG">
 </p>
 
-In order to change the frequency change the following line:
+In order to change the frequency, change the following line:
 
 <p align="center">
   <img width="320" height="300" src="/images/freq.PNG">
