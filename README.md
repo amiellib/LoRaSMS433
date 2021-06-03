@@ -94,8 +94,8 @@ import then to your comupter and upload them to the devices.
 2) Install Arduino IDE
 3) import Additional Boards Manager URLs
 4) Insall Board from Board Manager
-5) Include Libraries from Manage Library
-6) Import and open files from this repository
+5) Import and open files from this repository
+6) Include Libraries from Manage Library
 7) Edit the file to your needs
 8) Compile and upload to esp32
 9) Pair Smartphone to esp32 via Bluetooth
@@ -125,11 +125,94 @@ If any problems occur, you can follow: https://www.circuitbasics.com/arduino-bas
 
 ### import Additional Boards Manager URLs
 
+First we will need to get the URL for installing the Board.
+Click file -> Preferences
+
+<p align="center">
+  <img width="320" height="300" src="/images/preference.jpeg">
+</p>
+
+Now the following will open, click the edit URLs and add the following link to it.
+
+<p align="center">
+  <img width="320" height="300" src="/images/board_import.PNG">
+</p>
+
+click OK, and OK.
+
+<p align="center">
+  <img width="320" height="300" src="/images/ok_ok.PNG">
+</p>
 
 ### Insall Board from Board Manager
-### Include Libraries from Manage Library
+
+Now we will need to install the Board.
+Click Tools -> Boards -> Boards Manager
+
+<p align="center">
+  <img width="320" height="300" src="/images/board.jpeg">
+</p>
+
+Search for "esp32"
+
+<p align="center">
+  <img width="320" height="300" src="/images/install_board.PNG">
+</p>
+
+Click install (it may take a few minutes to download)
+
+Now we need to choose that board.
+Click Tools -> Board -> ESP32 Arduino -> Heltec WiFi LoRa 32 (scroll down)
+
+<p align="center">
+  <img width="320" height="300" src="/images/wifi_lora.jpeg">
+</p>
+
 ### Import and open files from this repository
+
+Download the .ino file, open it via the Arduino IDE.
+
+### Include Libraries from Manage Library
+
+Click Sketch -> Include Library -> Manage Libraries
+
+<p align="center">
+  <img width="320" height="300" src="/images/import_library.jpeg">
+</p>
+
+The following will open and search for "lora sandeep" and install
+Then search for "ssd1306" (scroll down) and install
+
+<p align="center">
+  <img width="320" height="300" src="/images/sandeep.PNG">
+  <img width="320" height="300" src="/images/ssd1306.PNG">
+</p>
+
+
+
+
 ### Edit the file to your needs
+
+will come later
+
+
 ### Compile and upload to esp32
+Click verify to make sure the code compiles:
+
+<p align="center">
+  <img width="320" height="300" src="/images/verify.PNG">
+</p>
+
+#### Make sure your device is connected!!!
+
+<p align="center">
+  <img width="320" height="300" src="/images/plug_esp32.jpeg">
+</p>
+
+The port may alter from computer to computer!
+
+Now Upload
+
 ### Pair Smartphone to esp32 via Bluetooth
+
 ### Open App and Connect to esp32
