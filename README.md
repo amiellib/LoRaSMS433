@@ -201,7 +201,7 @@ To change the name of the device you will need to change it at the following lin
   <img width="320" height="300" src="/images/bluetooth_name.PNG">
 </p>
 
-In orderto change the frequency change the following line:
+In order to change the frequency change the following line:
 
 <p align="center">
   <img width="320" height="300" src="/images/freq.PNG">
