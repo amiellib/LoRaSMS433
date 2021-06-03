@@ -150,13 +150,13 @@ Now we will need to install the Board.
 Click Tools -> Boards -> Boards Manager
 
 <p align="center">
-  <img width="320" height="300" src="/images/board.jpeg">
+  <img width="420" height="300" src="/images/board.jpeg">
 </p>
 
 Search for "esp32"
 
 <p align="center">
-  <img width="320" height="300" src="/images/install_board.PNG">
+  <img width="920" height="300" src="/images/install_board.PNG">
 </p>
 
 Click install (it may take a few minutes to download)
