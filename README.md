@@ -193,10 +193,22 @@ Then search for "ssd1306" (scroll down) and install
 
 ### Edit the file to your needs
 
-will come later
+You may want to change the name of the Bluetooth device, or/and the frequency.
 
+To change the name of the device you will need to change it at the following line:
+
+<p align="center">
+  <img width="320" height="300" src="/images/bluetooth_name.PNG">
+</p>
+
+In orderto change the frequency change the following line:
+
+<p align="center">
+  <img width="320" height="300" src="/images/freq.PNG">
+</p>
 
 ### Compile and upload to esp32
+
 Click verify to make sure the code compiles:
 
 <p align="center">
@@ -253,5 +265,9 @@ Your first input will be your nickname that will be shown ass the sender by all 
   <img width="320" height="300" src="/images/nickname.jpeg">
 </p>
 
-## Comments
+## Thanks
+
+We would like to Thank luxonn for the great github that helped us understand the code for the esp32, You can find the original code here:
+https://github.com/luxonn/Lora-chat
+
 
