@@ -177,7 +177,7 @@ Download the .ino file, open it via the Arduino IDE.
 Click Sketch -> Include Library -> Manage Libraries
 
 <p align="center">
-  <img width="320" height="300" src="/images/import_library.jpeg">
+  <img width="500" height="300" src="/images/import_library.jpeg">
 </p>
 
 The following will open and search for "lora sandeep" and install
