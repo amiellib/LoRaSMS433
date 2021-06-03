@@ -2,12 +2,6 @@
 
 In this project you can assemble a cheap LoRa connection to your smartphone, and be able to transmit to all surrounding phones also using this project.
 
-
-
-## still under work will be finish till 30.7.21
-
-hi thank you for looking in my github :)
-
 we will send a massge from a phone to anthor phone using lora conncted with bluetooth to the esp32 "wifi lora 32"
 
 # The Hardware Needed: 
