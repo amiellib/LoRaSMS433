@@ -65,7 +65,9 @@ You can use other methods, You can also connect to the computer or the smartphon
 
 ## Android Terminal App 
 The app "Serial Bluetooth Terminal"
-you cab download it from here: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
+you cab download it from here: 
+
+https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en_US&gl=US
 
 Or look in the phone in google play: "Serial Bluetooth Terminal"
 <p align="center">
@@ -121,7 +123,9 @@ Open https://www.arduino.cc/en/software , select and click on your operating sys
 
 You can donate, or click just download.
 Then you can agree to all.
-If any problems occur, you can follow: https://www.circuitbasics.com/arduino-basics-installing-software/
+If any problems occur, you can follow:
+
+https://www.circuitbasics.com/arduino-basics-installing-software/
 
 ### import Additional Boards Manager URLs
 
@@ -133,6 +137,8 @@ Click file -> Preferences
 </p>
 
 Now the following will open, click the edit URLs and add the following link to it.
+
+https://dl.espressif.com/dl/package_esp32_index.json
 
 <p align="center">
   <img width="320" height="300" src="/images/board_import.PNG">
