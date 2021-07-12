@@ -279,6 +279,32 @@ We changed the code as shown above to match our names, and sent messages to one 
   <img width="320" height="300" src="/images/work.jpeg">
 </p>
 
+
+## Future Projects
+
+### Range Test
+
+To impliment a range test to see how far you can send messages. 
+
+more information can be found in the link:
+
+https://www.instructables.com/ESP32-LoRa-You-Can-Reach-Up-to-65-Km/
+
+### Smartphone App
+
+If you want to control more of the LoRa functionalities you can improve in the following link:
+
+https://www.instructables.com/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/
+
+### RSSI 
+
+Received signal strength indication is the strength of the signal from the messages received.
+
+more information of how to add it in the link:
+
+https://github.com/Lora-net/LoRaMac-node/issues/420
+
+
 ## Thanks
 
 We would like to Thank luxonn for the great github that helped us understand the code for the esp32, You can find the original code here:
